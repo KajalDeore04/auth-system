@@ -31,7 +31,7 @@ The **Auth System** is a simple authentication system that allows users to regis
 - **Nodemailer**  
 - **Cookie-Parser**
 
-### **Others **
+### **Others :**
 - **MongoDB**   
 - **Axios**
 
