@@ -44,7 +44,7 @@ To set up the Auth System locally, follow these steps :
 git clone https://github.com/KajalDeore04/auth-system.git 
 ```
 ### Set up .env :
-```bash
+```
 rename .env.example to .env
 fill in the variable values
 ```
