@@ -14,7 +14,7 @@ The **Auth System** is a simple authentication system that allows users to regis
 
 ### **Frontend :**
 - **HTML**  
-- **CSS**  
+- **Tailwind CSS**  
 - **JavaScript**  
 - **React Router DOM**  
 - **React Toastify** 
