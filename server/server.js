@@ -11,7 +11,7 @@ const app = express();
 const port = process.env.PORT || 4000;
 connectDB()
 
-const allowedOrigins = ['http://localhost:5173','https://auth-system-client-beige.vercel.app/']
+const allowedOrigins = ['http://localhost:5173','https://auth-system-client-beige.vercel.app','https://auth-system-client-k1zy.onrender.com']
 
 // parse requests using json
 app.use(express.json())
