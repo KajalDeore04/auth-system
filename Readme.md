@@ -14,7 +14,7 @@ The **Auth System** is a simple authentication system that allows users to regis
 
 ### **Frontend :**
 - **HTML**  
-- **CSS**  
+- **Tailwind CSS**  
 - **JavaScript**  
 - **React Router DOM**  
 - **React Toastify** 
@@ -31,7 +31,7 @@ The **Auth System** is a simple authentication system that allows users to regis
 - **Nodemailer**  
 - **Cookie-Parser**
 
-### **Others **
+### **Others :**
 - **MongoDB**   
 - **Axios**
 
@@ -44,7 +44,7 @@ To set up the Auth System locally, follow these steps :
 git clone https://github.com/KajalDeore04/auth-system.git 
 ```
 ### Set up .env :
-```bash
+```
 rename .env.example to .env
 fill in the variable values
 ```
